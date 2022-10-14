@@ -153,7 +153,6 @@ function conditionalQuestion() {
     
 }
 
-
 let question1 = new Question(1, '¿La calidad del producto o servicio es la esperada?', ["Si", "No", "Quizás", "Nunca"], 1, true, 3)
 let question2 = new Question(2, '¿Repetiría la experiencia de compra?', ["Si", "No", "Quizás", "Nunca"], 1, false, 4)
 let question3 = new Question(3, '¿Nos recomendaría a sus amigos o familiares?', ["Si", "No", "Quizás", "Nunca"], 1, false, 0)
